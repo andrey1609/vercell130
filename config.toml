@@ -1,0 +1,4 @@
+baseURL = "https://sheetmusicoolpujol.vercel.app"
+languageCode = "en-us"
+title = "Download Trumpet Sheet Music 3"
+theme = "tale-hugo-master"
